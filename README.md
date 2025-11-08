@@ -77,4 +77,4 @@ This project implements a finite state machine (FSM) for an automatic washing ma
 - Monitors spin timeout
 - Completes with DONE signal
 
-## 📁 Project Structure
+
