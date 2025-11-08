@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="auto_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="auto_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.000 ns"></ZoomEndTime>
+      <Cursor1Time time="300.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="91"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/auto_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/door_close" type="logic">
+      <obj_property name="ElementShortName">door_close</obj_property>
+      <obj_property name="ObjectShortName">door_close</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/filled" type="logic">
+      <obj_property name="ElementShortName">filled</obj_property>
+      <obj_property name="ObjectShortName">filled</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/detergent_added" type="logic">
+      <obj_property name="ElementShortName">detergent_added</obj_property>
+      <obj_property name="ObjectShortName">detergent_added</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/cycle_timeout" type="logic">
+      <obj_property name="ElementShortName">cycle_timeout</obj_property>
+      <obj_property name="ObjectShortName">cycle_timeout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/drained" type="logic">
+      <obj_property name="ElementShortName">drained</obj_property>
+      <obj_property name="ObjectShortName">drained</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/spin_timeout" type="logic">
+      <obj_property name="ElementShortName">spin_timeout</obj_property>
+      <obj_property name="ObjectShortName">spin_timeout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/door_lock" type="logic">
+      <obj_property name="ElementShortName">door_lock</obj_property>
+      <obj_property name="ObjectShortName">door_lock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/motor_on" type="logic">
+      <obj_property name="ElementShortName">motor_on</obj_property>
+      <obj_property name="ObjectShortName">motor_on</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/fill_value_on" type="logic">
+      <obj_property name="ElementShortName">fill_value_on</obj_property>
+      <obj_property name="ObjectShortName">fill_value_on</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/drain_value_on" type="logic">
+      <obj_property name="ElementShortName">drain_value_on</obj_property>
+      <obj_property name="ObjectShortName">drain_value_on</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/soap_wash" type="logic">
+      <obj_property name="ElementShortName">soap_wash</obj_property>
+      <obj_property name="ObjectShortName">soap_wash</obj_property>
+   </wvobject>
+   <wvobject fp_name="/auto_tb/water_wash" type="logic">
+      <obj_property name="ElementShortName">water_wash</obj_property>
+      <obj_property name="ObjectShortName">water_wash</obj_property>
+   </wvobject>
+</wave_config>
